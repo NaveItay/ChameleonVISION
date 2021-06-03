@@ -66,13 +66,16 @@ ________________________________________________________________________________
 > ![alt text](/github_images/login_screen.png)
 
 ###### Game:
-> ![alt text](/github_images/login_screen.png)
+> ![alt text](/github_images/game_screen.png)
 
 ###### Debug:
-> ![alt text](/github_images/login_screen.png)
+> ![alt text](/github_images/debug_screen.png)
+> ![alt text](/github_images/debug_screen2.png)
 
 ###### Gamma calibration:
-> ![alt text](/github_images/login_screen.png)
+> ![alt text](/github_images/Calibrate_screen.png)
 
 ###### Filed calibration:
-> ![alt text](/github_images/login_screen.png)
+> ![alt text](/github_images/field_calibration_screen.png)
+> ![alt text](/github_images/field_calibration_screen2.png)
+> ![alt text](/github_images/field_calibration_screen3.png)
