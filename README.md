@@ -11,8 +11,23 @@ ChameleonVISION is a video assistant referee system for beach volleyball games, 
 ## System Architecture:
 ![alt text](/github_images/system_architecture.png)
 
+<p>
+<br />
+<br />
+</p>
+
 ## Project Goals:
-* Find an image in a short video and replace it with another image.
-* Perform a camera calibration.
-* Insert a 3D object into the video.
+* detect 'outside ball' \ 'inside ball'.
+
+* Automatic counting of passes in groups.
+
+* Facilitated and helped in operating judgment.
+
+* Verification judge decisions.
+
+* A different and unique viewing angle for the game.
+
+* Real-time option to re-watch at a disputed moment.
+
+* Export game statistics. 
 
