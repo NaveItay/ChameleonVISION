@@ -85,7 +85,11 @@ ________________________________________________________________________________
 > ![alt text](/assets/ChameleonVISION.png)
 © Copyright
 
-###
+<p>
+<br />
+</p>
+
+### Engineers:
 * Itay Nave
   - Computer Vision
   - Algorithms
