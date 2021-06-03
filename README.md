@@ -82,7 +82,7 @@ ________________________________________________________________________________
 > ![alt text](/github_images/field_calibration_screen3.png)
 
 ___________________________________________________________________________________
-> ![alt text](/assets/ChameleonVISION.png)
+![alt text](/assets/ChameleonVISION.png)
 © Copyright
 
 <p>
