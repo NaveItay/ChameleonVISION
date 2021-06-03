@@ -82,24 +82,25 @@ ________________________________________________________________________________
 > ![alt text](/github_images/field_calibration_screen3.png)
 
 ___________________________________________________________________________________
-![alt text](/assets/ChameleonVISION.png)
-© Copyright
-
-<p>
-<br />
-</p>
-
-### Engineers:
-* Itay Nave
-  - Computer Vision
-  - Algorithms
-  - CNN 
-* Eilon Cohen
-  - Web Development
-  - Cloud
-  - DataBase
-  - GUI
-* Guy Chriqui
-  - CNN
-  - GUI
-  - Algorithms
+> ![alt text](/assets/ChameleonVISION.png)
+> © Copyright
+> 
+> <p>
+> <br />
+> </p>
+> 
+> ### Engineers:
+> * Itay Nave
+>   - Computer Vision
+>   - Algorithms
+>   - CNN 
+> * Eilon Cohen
+>   - Web Development
+>   - Cloud
+>   - DataBase
+>   - GUI
+> * Guy Chriqui
+>   - CNN
+>   - GUI
+>   - Algorithms
+> 
