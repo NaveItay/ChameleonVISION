@@ -1,0 +1,8 @@
+classes = 2
+train  = /Users/itay/Desktop/Dataset/train.txt
+valid  = /Users/itay/Desktop/Dataset/val.txt
+names = /Users/itay/Desktop/Dataset/volley.names
+backup = /Users/itay/Desktop/Dataset/backup/
+
+
+scp -i  /Users/itay/Documents/itayGPU.pem  /Users/itay/Desktop/Dataset/yolov4.conv.137 ubuntu@ec2-3-21-27-148.us-east-2.compute.amazonaws.com:~/Volley/Dataset/
