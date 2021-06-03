@@ -1,4 +1,4 @@
 # ChameleonVISION 
-![alt text](/assets/ChameleonVISION.png)
+![alt text](/assets/Logo.png)
 
 ### Video assistant referee system for beach volleyball games
