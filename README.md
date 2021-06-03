@@ -91,10 +91,10 @@ ________________________________________________________________________________
   - Algorithms
   - CNN 
 * Eilon Cohen
-  -Web Development
-  -Cloud
-  -DataBase
-  -GUI
+  - Web Development
+  - Cloud
+  - DataBase
+  - GUI
 * Guy Chriqui
   - CNN
   - GUI
