@@ -1,6 +1,6 @@
 # ChameleonVISION 
 ![alt text](/github_images/Main.png)
-[![title](/images/youtube.png "ChameleonVISION - video assistant referee system for beach volleyball games")](https://www.youtube.com/watch?v=UwBT0xUOck4&ab_channel=ItayNave)
+[![title](/github_images/youtube.png "ChameleonVISION - video assistant referee system for beach volleyball games")](https://www.youtube.com/watch?v=UwBT0xUOck4&ab_channel=ItayNave)
 
 ChameleonVISION is a video assistant referee system for beach volleyball games, detects real-time game scenarios, and displays game statistics.
 
