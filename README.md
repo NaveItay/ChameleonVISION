@@ -55,6 +55,7 @@ ChameleonVISION is a video assistant referee system for beach volleyball games, 
   - Object Tracking
 * Field Detection 
 * Game Scenarios Analysis
+* Real-time replay capability
 
 <p>
 <br />
