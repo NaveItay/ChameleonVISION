@@ -1,7 +1,7 @@
 # ChameleonVISION 
 ![alt text](/github_images/Main.png)
 
-https://www.israelhayom.co.il/tech/tech/news/article/3506525
+https://www.israelhayom.co.il/tech/tech-news/article/3506525
 
 [![title](/github_images/youtube.png "ChameleonVISION - video assistant referee system for beach volleyball games")](https://www.youtube.com/watch?v=UwBT0xUOck4&ab_channel=ItayNave)
 
